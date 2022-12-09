@@ -60,13 +60,12 @@ Results only show real data when its compress ratio (cr) equals to 10, for other
 
 ## Citation
 ```
-@misc{wang2022spatialtemporal,
-      title={Spatial-Temporal Transformer for Video Snapshot Compressive Imaging}, 
-      author={Lishun Wang and Miao Cao and Yong Zhong and Xin Yuan},
-      year={2022},
-      eprint={2209.01578},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{wang2022spatial,
+  title={Spatial-Temporal Transformer for Video Snapshot Compressive Imaging},
+  author={Wang, Lishun and Cao, Miao and Zhong, Yong and Yuan, Xin},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2022},
+  publisher={IEEE}
 }
 ```
 ## Acknowledgement
