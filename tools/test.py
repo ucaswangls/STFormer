@@ -61,7 +61,7 @@ def main():
 
     model = build_model(cfg.model).to(device)
     logger.info("Load pre_train model...")
-    resume_dict = torch.load(cfg.checkpoints)
+    resume_dict = torch.load(cfg.weights)
     if "model_state_dict" not in resume_dict.keys():
         model_state_dict = resume_dict
     else:
