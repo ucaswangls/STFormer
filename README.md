@@ -60,13 +60,15 @@ Results only show real data when its compress ratio (cr) equals to 10, for other
 
 ## Citation
 ```
-@article{wang2022spatial,
-  title={Spatial-Temporal Transformer for Video Snapshot Compressive Imaging},
+@article{wang2023spatial,
   author={Wang, Lishun and Cao, Miao and Zhong, Yong and Yuan, Xin},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2022},
-  publisher={IEEE}
-}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Spatial-Temporal Transformer for Video Snapshot Compressive Imaging}, 
+  year={2023},
+  volume={45},
+  number={7},
+  pages={9072-9089},
+  doi={10.1109/TPAMI.2022.3225382}}
 ```
 ## Acknowledgement
 The codes are based on [CACTI](https://github.com/ucaswangls/cacti), 
